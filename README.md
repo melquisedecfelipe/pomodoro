@@ -30,9 +30,10 @@ This project was developed with the following technologies:
 
 Backend
 
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Typescript](https://www.typescriptlang.org/)
+- [Circular progress](https://github.com/bartgryszko/react-native-circular-progress)
+- [Expo](https://expo.io/)
+- [React native](https://facebook.github.io/react-native/)
+- [React navigation](https://reactnavigation.org/)
 
 ## :information_source: How To Use
 
@@ -45,8 +46,8 @@ $ git clone https://github.com/melquisedecfelipe/pomodoro
 # Go into the repository and install dependencies
 $ cd pomodoro && yarn
 
-# Run backend
-$ yarn dev
+# Run mobile
+$ yarn start
 ```
 
 ## :memo: License
