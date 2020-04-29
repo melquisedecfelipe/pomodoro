@@ -28,8 +28,6 @@
 
 This project was developed with the following technologies:
 
-Backend
-
 - [Circular progress](https://github.com/bartgryszko/react-native-circular-progress)
 - [Expo](https://expo.io/)
 - [React native](https://facebook.github.io/react-native/)
